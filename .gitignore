@@ -27,3 +27,5 @@ _testmain.go
 *.ipr
 *.ids
 *.iws
+
+keys.txt
